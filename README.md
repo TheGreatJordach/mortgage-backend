@@ -1,7 +1,7 @@
 <div style="align-items: center; padding: 55px;background-color: #232125; ">
  
 
-<div style="padding: 55px;background-color:whitesmoke;>
+<div style="padding: 55px";>
 
 ![Alt text](src/assets/images/logo-no-background.svg)
 
@@ -15,7 +15,7 @@
 #### Overview   
 [![CI Pipeline](https://github.com/TheGreatJordach/mortgage-backend/actions/workflows/CI.yml/badge.svg)](https://github.com/TheGreatJordach/mortgage-backend/actions/workflows/CI.yml)
 [![Build](https://github.com/TheGreatJordach/mortgage-backend/actions/workflows/quality-code-scan.yml/badge.svg)](https://github.com/TheGreatJordach/mortgage-backend/actions/workflows/quality-code-scan.yml)
-[![Deploy to Vercel](https://github.com/TheGreatJordach/mortgage-backend/actions/workflows/deploy.yml/badge.svg)](https://github.com/TheGreatJordach/mortgage-backend/actions/workflows/deploy.yml)
+[![Deploy to Vercel](https://github.com/TheGreatJordach/mortgage-backend/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/TheGreatJordach/mortgage-backend/actions/workflows/deploy.yml)
 
 > 💡 Developing a mortgage calculator application consisting of a frontend and backend. The frontend will handle user interaction and display calculation results. The backend will provide API endpoints for calculations and data storage.
 
@@ -66,12 +66,6 @@
 
 > 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
 
-
-<br> 
-<div>
-<img src="image.jpg" width="200" height="150" alt="Alt text">
-</div>
-<br> 
 
 
    - **Project Structure**:
@@ -155,7 +149,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## Stay in touch
 
 - Author - [Jordach MAKAYA](https://kamilmysliwiec.com)
-- E-Mail me ! - solidstacksolutions@gmail.com
+- E-Mail - solidstacksolutions@gmail.com
 
 ## License
 
