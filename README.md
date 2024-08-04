@@ -1,7 +1,7 @@
-<div style="align-items: center; padding: 55px;background-color: #232125; ">
+<div style="align-items: center; padding: 75px;background-color: #232125; ">
  
 
-<div style="padding: 55px";>
+<div style="padding: 75px;">
 
 ![Alt text](src/assets/images/logo-no-background.svg)
 
